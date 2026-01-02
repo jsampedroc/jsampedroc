@@ -33,7 +33,7 @@ Specialized in **monolithic architectures, microservices, and cloud infrastructu
 
 ## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tunkifloo&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsampedroc&theme=react-dark)
 
 ---
 
