@@ -1,18 +1,31 @@
 # 👋 Hi, I'm José Sampedro
 
-💻 **Backend & Full-Stack Software Developer**  
-🚀 Focused on building **scalable, clean and maintainable systems**
+💻 **Senior Backend Engineer / Backend Architect**  
+🏗️ Designing **scalable, resilient and high-performance systems**
 
-I’m a software developer with a strong interest in **backend development, system design and clean architecture**, experienced in building robust APIs and full-stack applications using modern technologies.
+Senior software engineer specialized in **backend architecture, distributed systems and clean architecture**, with solid experience designing and evolving mission-critical platforms. Strong focus on **scalability, reliability, security and maintainability**.
 
 ---
 
 ## 🧠 What I Do
-- 🏗️ Design and develop **backend architectures**
-- 🔌 Build **RESTful APIs** with clean, testable code
-- 🧩 Apply **clean architecture & best practices**
-- ⚙️ Develop **full-stack applications**
-- 📈 Continuously improving performance and code quality
+- 🏗️ Design and lead **backend and system architectures**
+- 🔌 Build and evolve **robust RESTful APIs** and backend services
+- 🧩 Apply **Clean Architecture, DDD and SOLID principles**
+- ⚙️ Develop **backend applications and microservices**
+- 🔐 Implement **security and authentication solutions**
+- 📈 Drive **performance, scalability and observability**
+- 🤝 Collaborate with cross-functional teams and mentor developers
+
+---
+
+## 🏛️ Architectural Focus
+- **Microservices & Modular Monoliths**
+- **Event-Driven Architectures**
+- **Distributed Systems & Messaging**
+- **API Design & Integration**
+- **Authentication & Authorization**
+- **Monitoring, Logging & Tracing**
+- **Cloud-native & Containerized Environments**
 
 ---
 
@@ -22,14 +35,27 @@ I’m a software developer with a strong interest in **backend development, syst
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-
-### Database & Tools
+### Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![DB2](https://img.shields.io/badge/IBM_DB2-003A8F?style=for-the-badge&logo=ibm)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Keycloak](https://img.shields.io/badge/Keycloak-2C2C2C?style=for-the-badge&logo=keycloak)
+
+### Observability & Messaging
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic)
+![Redpanda](https://img.shields.io/badge/Redpanda-E53935?style=for-the-badge&logo=apachekafka)
+![Conduktor](https://img.shields.io/badge/Conduktor-6E44FF?style=for-the-badge)
+
+### Tools & Collaboration
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
