@@ -51,6 +51,7 @@ Senior software engineer specialized in **backend architecture, distributed syst
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Redpanda](https://img.shields.io/badge/Redpanda-E53935?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Conduktor](https://img.shields.io/badge/Conduktor-6E44FF?style=for-the-badge&logo=conduktor&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### Tools & Collaboration
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
